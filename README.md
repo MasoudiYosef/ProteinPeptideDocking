@@ -15,17 +15,17 @@ After downloading the files, please follow these steps to run the codes:
       
   5- Open the algorithm.py file, determine the input file and the algorithm, like the following figure
       
-      <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/MainFile.jpg">
+      <img width=“964” alt=“java 8 and prio java 8  array review example” src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/MainFile.jpg">
       
   6- Press F5 to run the source code
   
   7- During the execution, the electrostaic, van der waals, solvation, and hydrogen bond energies are appeared in the python shell for every iteration of the algorithm's steps (please the following figure)
   
-     <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help.jpg">
+     <img width=“964” alt=“java 8 and prio java 8  array review example” src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help.jpg">
   
   8- To determine the 3D predicted poses of the given peptide's atoms, go to the poses folder. A .txt file has been created for the chosen peptide. After opening it, go to the end of file and observe the latest predicted poses (please the following figure)
   
-      <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help1.jpg">
+      <img width=“964” alt=“java 8 and prio java 8  array review example” src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help1.jpg">
   
   9- To further parameter regulation, refer to the algorithms file (e.g., Trader.py) and change the noc and noi parameters, as shown in the following figure
   
