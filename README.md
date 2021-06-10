@@ -17,6 +17,10 @@ After downloading the files, please follow these steps to run the codes:
       
       ![alt text]("https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/MainFile.jpg")
       
+      ![Alt text](/MainFile.jpg?raw=true "Title")
+      
+      ![Alt text](/MainFile.jpg?raw=true "Title")
+      
   6- Press F5 to run the source code
   
   7- During the execution, the electrostaic, van der waals, solvation, and hydrogen bond energies are appeared in the python shell for every iteration of the algorithm's steps (please the following figure)
