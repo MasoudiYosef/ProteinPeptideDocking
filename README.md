@@ -29,7 +29,7 @@ After downloading the files, please follow these steps to run the codes:
   
   9- To further parameter regulation, refer to the algorithms file (e.g., Trader.py) and change the noc and noi parameters, as shown in the following figure
   
-      <img src="hhttps://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help2.jpg">
+      <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help2.jpg">
       
 Here is also a youtube link which describe how you can run the source codes:
  
