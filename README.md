@@ -19,7 +19,7 @@ After downloading the files, please follow these steps to run the codes:
 
   <br/><br/><br/>
   6- Press **F5** to run the source code
-  
+  <br/><br/><br/>
   7- During the execution, the electrostaic, van der waals, solvation, and hydrogen bond energies are appeared in the python shell for every iteration of the algorithm's steps (please the following figure)
   
 <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/1d45259f58d900d117201792cdb1e5ec0dd7455a/Help.jpg?raw=true">
