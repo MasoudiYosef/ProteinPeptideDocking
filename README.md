@@ -21,16 +21,16 @@ After downloading the files, please follow these steps to run the codes:
   
   7- During the execution, the electrostaic, van der waals, solvation, and hydrogen bond energies are appeared in the python shell for every iteration of the algorithm's steps (please the following figure)
   
-     <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/1d45259f58d900d117201792cdb1e5ec0dd7455a/Help.jpg?raw=true">
+<img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/1d45259f58d900d117201792cdb1e5ec0dd7455a/Help.jpg?raw=true">
   
   8- To determine the 3D predicted poses of the given peptide's atoms, go to the poses folder. A .txt file has been created for the chosen peptide. After opening it, go to the end of file and observe the latest predicted poses (please the following figure)
   
-      <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help1.jpg">
+<img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help1.jpg">
   
   9- To further parameter regulation, refer to the algorithms file (e.g., Trader.py) and change the noc and noi parameters, as shown in the following figure
   
-      <img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help2.jpg">
+<img src="https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/Help2.jpg">
       
 Here is also a youtube link which describe how you can run the source codes:
  
-  <a href="https://youtu.be/CPCUYPhJOe4"> Please click to redirect to the viodeo page </a>
+<a href="https://youtu.be/CPCUYPhJOe4"> Please click to redirect to the viodeo page </a>
