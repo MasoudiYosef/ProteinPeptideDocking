@@ -1,10 +1,10 @@
 # ProteinPeptideDocking
-<b>Source codes for protein-peptide docking<b>
+##Source codes for protein-peptide docking
 
 After downloading the files, please follow these steps to run the codes:
 
   1- Extract the .zip file
-  
+  <br>
   2- From the poses folder, copy the dataset into the main directory containing the algorithms codes and, then, extract it
   
   3- For runnning the algorithms, you need to one of the python programming language's versions such as "python 3.1" or higher versions
@@ -18,7 +18,7 @@ After downloading the files, please follow these steps to run the codes:
 ![MainFile](https://user-images.githubusercontent.com/83264279/121524377-7cf85580-ca0c-11eb-84ac-e8893880dad7.jpg)
 
   
-  6- Press <b>F5</b> to run the source code
+  6- Press **F5** to run the source code
   
   7- During the execution, the electrostaic, van der waals, solvation, and hydrogen bond energies are appeared in the python shell for every iteration of the algorithm's steps (please the following figure)
   
