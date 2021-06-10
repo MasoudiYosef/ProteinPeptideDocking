@@ -15,11 +15,7 @@ After downloading the files, please follow these steps to run the codes:
       
   5- Open the algorithm.py file, determine the input file and the algorithm, like the following figure
       
-      ![alt text]("https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/MainFile.jpg")
-      
-      ![Alt text](/MainFile.jpg?raw=true "Title")
-      
-      ![Alt text](/MainFile.jpg?raw=true "Title")
+      ![Image 1]("https://github.com/MasoudiYosef/ProteinPeptideDocking/blob/main/MainFile.jpg")
       
   6- Press F5 to run the source code
   
