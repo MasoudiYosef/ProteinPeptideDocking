@@ -12,7 +12,7 @@ After downloading the files, please follow these steps to run the codes:
   4- Please check that the numpy module has been installed and exist for python. If not, you can install the module using the following command in CMD:
   
       pip install numpy
-      
+  <br/><br/><br/>   
   5- Open the algorithm.py file, determine the input file and the algorithm, like the following figure
       
 ![MainFile](https://user-images.githubusercontent.com/83264279/121524377-7cf85580-ca0c-11eb-84ac-e8893880dad7.jpg)
